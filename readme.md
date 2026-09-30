@@ -22,6 +22,6 @@ git pull origin <branch>					# sync remote to local (merge)
 
 > other notes
 
-```
+```bash
 clear
 ```
